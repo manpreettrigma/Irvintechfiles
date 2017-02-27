@@ -1,0 +1,948 @@
+[21-Oct-2016 13:21:00 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 52
+[24-Oct-2016 11:12:39 UTC] PHP Fatal error:  Call to a member function get_userlist() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Dashboard.php on line 20
+[24-Oct-2016 11:12:42 UTC] PHP Fatal error:  Call to a member function get_userlist() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Dashboard.php on line 20
+[25-Oct-2016 06:22:49 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/Admin_manage_model.php on line 9
+[25-Oct-2016 06:22:51 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/Admin_manage_model.php on line 9
+[25-Oct-2016 08:01:22 UTC] PHP Parse error:  syntax error, unexpected '"admin_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 23
+[25-Oct-2016 08:01:25 UTC] PHP Parse error:  syntax error, unexpected '"admin_id"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 23
+[25-Oct-2016 08:01:52 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 23
+[25-Oct-2016 09:34:10 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 19
+[26-Oct-2016 06:09:51 UTC] PHP Fatal error:  Call to a member function get_pages() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 17
+[26-Oct-2016 06:42:46 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::get() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/page/Page_model.php on line 10
+[26-Oct-2016 06:45:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 18
+[26-Oct-2016 06:53:23 UTC] PHP Parse error:  syntax error, unexpected '$getContent' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 18
+[26-Oct-2016 07:49:25 UTC] PHP Fatal error:  Call to a member function get_adminlist() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 51
+[27-Oct-2016 07:28:30 UTC] PHP Fatal error:  Call to undefined method CI_Controller::view_header() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 73
+[27-Oct-2016 07:28:32 UTC] PHP Fatal error:  Call to undefined method CI_Controller::view_header() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 73
+[27-Oct-2016 07:30:28 UTC] PHP Fatal error:  Call to undefined method CI_Controller::view_header() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 73
+[27-Oct-2016 07:30:30 UTC] PHP Fatal error:  Call to undefined method CI_Controller::view_header() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 73
+[27-Oct-2016 10:02:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 77
+[27-Oct-2016 10:22:16 UTC] PHP Fatal error:  Call to undefined function testingthings() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 70
+[27-Oct-2016 11:40:26 UTC] PHP Parse error:  syntax error, unexpected 'Are' (T_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 112
+[28-Oct-2016 06:44:28 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::add_page() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 64
+[28-Oct-2016 06:45:43 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::add_page() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 64
+[28-Oct-2016 06:45:50 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::add_page() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 64
+[28-Oct-2016 07:06:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 71
+[28-Oct-2016 07:44:10 UTC] PHP Parse error:  syntax error, unexpected '$metaArr' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 73
+[01-Nov-2016 05:06:00 UTC] PHP Parse error:  syntax error, unexpected 'page_description' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[01-Nov-2016 05:06:02 UTC] PHP Parse error:  syntax error, unexpected 'page_description' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[01-Nov-2016 07:31:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 128
+[01-Nov-2016 07:31:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 128
+[01-Nov-2016 08:35:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 151
+[01-Nov-2016 08:35:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 151
+[01-Nov-2016 08:35:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 152
+[01-Nov-2016 08:35:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 152
+[01-Nov-2016 08:35:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 152
+[01-Nov-2016 09:16:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 5
+[01-Nov-2016 09:17:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 4
+[01-Nov-2016 09:17:35 UTC] PHP Parse error:  syntax error, unexpected ''/uploads '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 4
+[01-Nov-2016 09:57:05 UTC] PHP Parse error:  syntax error, unexpected 'gif' (T_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 79
+[01-Nov-2016 09:57:36 UTC] PHP Parse error:  syntax error, unexpected 'gif' (T_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 79
+[01-Nov-2016 09:57:42 UTC] PHP Parse error:  syntax error, unexpected 'gif' (T_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 79
+[01-Nov-2016 09:57:44 UTC] PHP Parse error:  syntax error, unexpected 'gif' (T_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 79
+[01-Nov-2016 09:58:04 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 78
+[01-Nov-2016 09:58:06 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 78
+[01-Nov-2016 10:29:08 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 177
+[01-Nov-2016 10:29:13 UTC] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 177
+[01-Nov-2016 12:36:36 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 73
+[01-Nov-2016 12:36:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 73
+[01-Nov-2016 12:37:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 73
+[01-Nov-2016 12:37:41 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 73
+[02-Nov-2016 06:20:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 88
+[02-Nov-2016 07:03:03 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 110
+[02-Nov-2016 07:03:31 UTC] PHP Parse error:  syntax error, unexpected ''</td>' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 110
+[02-Nov-2016 08:46:52 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 112
+[02-Nov-2016 08:47:19 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 112
+[02-Nov-2016 08:47:21 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 112
+[02-Nov-2016 08:47:45 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 112
+[02-Nov-2016 08:47:47 UTC] PHP Parse error:  syntax error, unexpected '$first_name' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 112
+[02-Nov-2016 09:53:56 UTC] PHP Fatal error:  Cannot redeclare Account::create_presenter() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 29
+[02-Nov-2016 12:48:15 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 33
+[02-Nov-2016 13:02:27 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 33
+[02-Nov-2016 18:48:24 UTC] PHP Fatal error:  Call to a member function getdata() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 36
+[02-Nov-2016 18:58:01 UTC] PHP Fatal error:  Call to undefined function login() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 47
+[02-Nov-2016 19:20:13 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 44
+[02-Nov-2016 19:20:16 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 44
+[03-Nov-2016 04:49:30 UTC] PHP Fatal error:  Cannot redeclare Account::login() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 220
+[03-Nov-2016 04:50:53 UTC] PHP Fatal error:  Cannot redeclare Account::login() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 220
+[03-Nov-2016 04:52:43 UTC] PHP Fatal error:  Cannot redeclare Account::login() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 220
+[03-Nov-2016 04:52:45 UTC] PHP Fatal error:  Cannot redeclare Account::login() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 220
+[03-Nov-2016 04:59:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 234
+[03-Nov-2016 09:25:13 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:25:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:25:47 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:15 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:17 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:17 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:33 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:53 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:26:57 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 64
+[03-Nov-2016 09:36:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 87
+[03-Nov-2016 09:36:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 87
+[03-Nov-2016 09:41:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 96
+[03-Nov-2016 09:41:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 96
+[03-Nov-2016 09:46:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 84
+[03-Nov-2016 09:50:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 84
+[03-Nov-2016 09:50:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 84
+[03-Nov-2016 09:50:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 84
+[03-Nov-2016 09:57:57 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 87
+[03-Nov-2016 09:57:59 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 87
+[03-Nov-2016 09:58:11 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 87
+[03-Nov-2016 10:23:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 89
+[03-Nov-2016 10:23:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 89
+[03-Nov-2016 10:23:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[03-Nov-2016 10:24:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[03-Nov-2016 10:29:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[03-Nov-2016 10:29:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 88
+[03-Nov-2016 11:00:18 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 89
+[03-Nov-2016 11:00:22 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 89
+[03-Nov-2016 11:22:32 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/User_manage_model.php on line 6
+[03-Nov-2016 12:28:23 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/include/topnavigation.php on line 2
+[03-Nov-2016 13:16:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/manage/users/profile.php on line 72
+[03-Nov-2016 13:16:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/manage/users/profile.php on line 72
+[03-Nov-2016 13:16:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/manage/users/profile.php on line 72
+[04-Nov-2016 04:34:06 UTC] PHP Parse error:  syntax error, unexpected '"Monika"' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 180
+[04-Nov-2016 07:10:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 91
+[04-Nov-2016 07:10:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 91
+[04-Nov-2016 07:41:29 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::update_image() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 175
+[04-Nov-2016 07:41:31 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::update_image() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 175
+[04-Nov-2016 07:41:34 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::update_image() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 175
+[04-Nov-2016 07:41:44 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::update_image() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 175
+[04-Nov-2016 07:46:20 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 176
+[04-Nov-2016 07:47:49 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 176
+[04-Nov-2016 07:47:51 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 176
+[04-Nov-2016 07:47:52 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 176
+[04-Nov-2016 12:10:52 UTC] PHP Fatal error:  Call to a member function get_dashboard_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 246
+[04-Nov-2016 12:10:54 UTC] PHP Fatal error:  Call to a member function get_dashboard_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 246
+[04-Nov-2016 12:23:51 UTC] PHP Fatal error:  Cannot redeclare Account_manage_model::get_dashboard_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 57
+[04-Nov-2016 12:23:52 UTC] PHP Fatal error:  Cannot redeclare Account_manage_model::get_dashboard_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 57
+[04-Nov-2016 12:23:53 UTC] PHP Fatal error:  Cannot redeclare Account_manage_model::get_dashboard_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 57
+[04-Nov-2016 12:23:54 UTC] PHP Fatal error:  Cannot redeclare Account_manage_model::get_dashboard_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 57
+[04-Nov-2016 12:24:15 UTC] PHP Fatal error:  Cannot redeclare Account_manage_model::get_dashboard_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 57
+[04-Nov-2016 12:31:59 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:32:02 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:32:18 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:32:19 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:32:21 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:32:21 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 1
+[04-Nov-2016 12:47:30 UTC] PHP Parse error:  syntax error, unexpected 'refresh' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 229
+[06-Nov-2016 15:54:47 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_profile_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 259
+[06-Nov-2016 15:54:49 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_profile_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 259
+[06-Nov-2016 16:55:33 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::array_keys() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:15:09 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:15:11 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:15:12 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:15:12 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:15:36 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::array_fill_keys() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 17:16:47 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::array_fill_keys() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[06-Nov-2016 18:43:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 77
+[06-Nov-2016 18:43:24 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 69
+[06-Nov-2016 19:03:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 73
+[06-Nov-2016 19:03:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 73
+[07-Nov-2016 05:10:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 70
+[07-Nov-2016 05:11:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 70
+[07-Nov-2016 05:11:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 71
+[07-Nov-2016 05:32:58 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[07-Nov-2016 05:32:59 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[07-Nov-2016 05:47:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 260
+[07-Nov-2016 05:47:03 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 260
+[07-Nov-2016 05:48:11 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[07-Nov-2016 05:48:12 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 66
+[07-Nov-2016 05:48:54 UTC] PHP Fatal error:  Cannot use [] for reading in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 260
+[07-Nov-2016 06:26:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 06:26:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/profile_edit.php on line 29
+[07-Nov-2016 07:04:59 UTC] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 278
+[07-Nov-2016 07:05:05 UTC] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 278
+[07-Nov-2016 07:05:07 UTC] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 278
+[07-Nov-2016 07:05:15 UTC] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 278
+[07-Nov-2016 07:05:16 UTC] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 278
+[07-Nov-2016 07:23:17 UTC] PHP Fatal error:  Call to undefined function r() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 99
+[07-Nov-2016 07:37:45 UTC] PHP Fatal error:  Call to undefined function r() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 97
+[07-Nov-2016 08:56:08 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 2
+[07-Nov-2016 08:56:09 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/dashboard.php on line 2
+[07-Nov-2016 10:59:16 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 117
+[07-Nov-2016 11:01:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 115
+[07-Nov-2016 11:01:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 115
+[07-Nov-2016 11:01:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 115
+[07-Nov-2016 11:53:48 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 122
+[07-Nov-2016 11:53:49 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 122
+[07-Nov-2016 11:53:50 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 122
+[07-Nov-2016 11:54:04 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 122
+[07-Nov-2016 12:40:15 UTC] PHP Parse error:  syntax error, unexpected ''Please enter the correct user' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 236
+[07-Nov-2016 12:40:17 UTC] PHP Parse error:  syntax error, unexpected ''Please enter the correct user' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 236
+[07-Nov-2016 13:23:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 357
+[07-Nov-2016 13:23:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:24:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:24:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:24:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:25:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:25:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[07-Nov-2016 13:26:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/change_password.php on line 13
+[08-Nov-2016 04:37:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 366
+[08-Nov-2016 05:55:45 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 26
+[08-Nov-2016 05:55:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 26
+[08-Nov-2016 05:55:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 26
+[08-Nov-2016 05:55:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 26
+[08-Nov-2016 05:56:19 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 26
+[08-Nov-2016 05:58:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 54
+[08-Nov-2016 05:58:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 54
+[08-Nov-2016 06:06:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/dashboard/public/wrapper_start.php on line 25
+[08-Nov-2016 09:19:48 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 6
+[08-Nov-2016 09:53:10 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 20
+[08-Nov-2016 09:54:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 21
+[08-Nov-2016 09:54:18 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 21
+[08-Nov-2016 09:54:38 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 21
+[08-Nov-2016 09:55:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Login_model.php on line 22
+[08-Nov-2016 10:26:58 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:28:23 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:28:55 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:29:17 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:29:55 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:29:57 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:32:48 UTC] PHP Parse error:  syntax error, unexpected ''<a href="'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 188
+[08-Nov-2016 10:39:35 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:41:06 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 41
+[08-Nov-2016 10:45:18 UTC] PHP Fatal error:  Call to a member function get_total_Providerrecord() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 118
+[08-Nov-2016 13:02:06 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 22
+[09-Nov-2016 05:44:49 UTC] PHP Fatal error:  Call to a member function fetch_class() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/include/superadminsidebar.php on line 3
+[09-Nov-2016 09:11:57 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 231
+[09-Nov-2016 09:13:16 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 231
+[09-Nov-2016 09:13:27 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 231
+[09-Nov-2016 11:53:13 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 11:55:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 11:55:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 11:56:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 11:56:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:01:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:02:56 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 251
+[09-Nov-2016 12:03:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 252
+[09-Nov-2016 12:03:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 252
+[09-Nov-2016 12:03:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 252
+[09-Nov-2016 12:13:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 254
+[10-Nov-2016 05:26:09 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 248
+[10-Nov-2016 06:20:32 UTC] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:20:48 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_field_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:21:36 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_field_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:21:38 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_field_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:23:58 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_field_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:25:34 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_field_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 119
+[10-Nov-2016 06:27:38 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_provider_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 120
+[10-Nov-2016 06:27:40 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_provider_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 120
+[10-Nov-2016 06:27:47 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_provider_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 120
+[10-Nov-2016 06:28:39 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_provider_data() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 120
+[10-Nov-2016 08:46:25 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 2
+[10-Nov-2016 08:46:28 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 2
+[10-Nov-2016 08:47:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 44
+[10-Nov-2016 08:47:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 44
+[10-Nov-2016 08:48:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 44
+[10-Nov-2016 08:48:02 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 44
+[10-Nov-2016 08:48:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 44
+[10-Nov-2016 09:06:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:06:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:06:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:06:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:06:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:06:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:07:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:07:06 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:07:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:07:08 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 152
+[10-Nov-2016 09:09:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 11
+[10-Nov-2016 09:09:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/create-provider.php on line 11
+[10-Nov-2016 10:16:13 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::get_settings_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 287
+[10-Nov-2016 10:16:14 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::get_settings_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 287
+[10-Nov-2016 10:16:46 UTC] PHP Fatal error:  Call to undefined method Page_manage_model::get_settings_id() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 287
+[10-Nov-2016 10:42:27 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:42:29 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:42:36 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:47:31 UTC] PHP Fatal error:  Call to a member function update_records() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 322
+[10-Nov-2016 10:48:23 UTC] PHP Fatal error:  Call to a member function update_records() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 322
+[10-Nov-2016 10:51:25 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:51:27 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:51:30 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:51:42 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 10:51:43 UTC] PHP Fatal error:  Function name must be a string in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[10-Nov-2016 11:59:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 11:59:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 11:59:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 11:59:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 11:59:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 11:59:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 164
+[10-Nov-2016 12:11:00 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 174
+[10-Nov-2016 12:11:02 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 174
+[10-Nov-2016 12:11:13 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 174
+[10-Nov-2016 12:15:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/manage/users/edit.php on line 3
+[10-Nov-2016 12:15:54 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/manage/users/edit.php on line 3
+[10-Nov-2016 13:10:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 82
+[10-Nov-2016 13:10:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 82
+[10-Nov-2016 17:32:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:32:45 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:33:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 17:33:18 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit_profile.php on line 25
+[10-Nov-2016 18:03:30 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 135
+[10-Nov-2016 18:03:32 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Page.php on line 135
+[11-Nov-2016 06:29:18 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 127
+[11-Nov-2016 07:06:11 UTC] PHP Fatal error:  Call to a member function update_user() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Manage.php on line 142
+[11-Nov-2016 11:54:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 5
+[11-Nov-2016 11:54:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 5
+[11-Nov-2016 12:28:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 96
+[11-Nov-2016 12:28:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/page/edit.php on line 96
+[11-Nov-2016 13:43:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/banner.php on line 15
+[11-Nov-2016 13:43:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/banner.php on line 15
+[14-Nov-2016 06:33:57 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 366
+[14-Nov-2016 07:35:34 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:35 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:39 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:39 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:39 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:45 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:45 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:35:45 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:40 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:41 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:41 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:47 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:47 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:36:47 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:08 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:09 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:09 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:09 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:09 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:10 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:10 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 07:40:10 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 09:13:44 UTC] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 91
+[14-Nov-2016 09:25:57 UTC] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 91
+[14-Nov-2016 09:25:58 UTC] PHP Fatal error:  Call to a member function get_field_id() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 91
+[14-Nov-2016 09:45:08 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Payments_pro.php on line 73
+[14-Nov-2016 10:35:57 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:40:43 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:40:49 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:01 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:02 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:02 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:02 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:03 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:03 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:06 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:07 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:43:08 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:44:16 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:44:18 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[14-Nov-2016 10:46:07 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 381
+[14-Nov-2016 10:46:40 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 381
+[14-Nov-2016 10:46:42 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 381
+[14-Nov-2016 10:46:47 UTC] PHP Fatal error:  Call to a member function add_field() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 388
+[14-Nov-2016 10:46:48 UTC] PHP Fatal error:  Call to a member function add_field() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 388
+[14-Nov-2016 11:28:43 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:28:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:29:06 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 78
+[14-Nov-2016 11:29:08 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 78
+[14-Nov-2016 11:29:27 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:29:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:29:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:29:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 81
+[14-Nov-2016 11:38:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 57
+[14-Nov-2016 11:41:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 57
+[14-Nov-2016 11:41:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 57
+[14-Nov-2016 11:41:27 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:28 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:29 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:29 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:30 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:30 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:31 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:42 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:43 UTC] PHP Parse error:  syntax error, unexpected 'particular' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 65
+[14-Nov-2016 11:41:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Product.php on line 21
+[14-Nov-2016 11:42:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Product.php on line 21
+[14-Nov-2016 11:42:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Product.php on line 21
+[14-Nov-2016 11:42:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Product.php on line 21
+[14-Nov-2016 11:54:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 10
+[14-Nov-2016 11:54:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 10
+[14-Nov-2016 11:56:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 10
+[14-Nov-2016 12:14:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/Product.php on line 10
+[14-Nov-2016 12:28:13 UTC] PHP Parse error:  syntax error, unexpected '$userID' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[14-Nov-2016 12:28:14 UTC] PHP Parse error:  syntax error, unexpected '$userID' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[14-Nov-2016 12:45:24 UTC] PHP Fatal error:  Cannot redeclare Paypal::provider_level() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 42
+[14-Nov-2016 12:45:27 UTC] PHP Fatal error:  Cannot redeclare Paypal::provider_level() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 42
+[14-Nov-2016 13:23:45 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Products.php on line 24
+[15-Nov-2016 07:00:34 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:00:48 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:00:50 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:00:57 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:01:01 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:01:12 UTC] PHP Parse error:  syntax error, unexpected 'variables' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 22
+[15-Nov-2016 07:48:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 72
+[15-Nov-2016 10:31:25 UTC] PHP Parse error:  syntax error, unexpected 'the' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 73
+[15-Nov-2016 10:31:28 UTC] PHP Parse error:  syntax error, unexpected 'the' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 73
+[15-Nov-2016 10:31:29 UTC] PHP Parse error:  syntax error, unexpected 'the' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 73
+[15-Nov-2016 10:31:40 UTC] PHP Parse error:  syntax error, unexpected 'the' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Paypal.php on line 73
+[15-Nov-2016 11:09:52 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:09:56 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:14:57 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:15:50 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:15:52 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:15:54 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:15:55 UTC] PHP Fatal error:  Call to undefined method Course_model::get_userlist() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 18
+[15-Nov-2016 11:25:03 UTC] PHP Fatal error:  Cannot redeclare Course::index() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 25
+[15-Nov-2016 11:25:05 UTC] PHP Fatal error:  Cannot redeclare Course::index() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 25
+[15-Nov-2016 11:25:30 UTC] PHP Fatal error:  Cannot redeclare Course::index() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 25
+[15-Nov-2016 11:40:23 UTC] PHP Fatal error:  Call to undefined method Course_model::add_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 33
+[15-Nov-2016 11:41:13 UTC] PHP Fatal error:  Call to undefined method Course_model::add_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 33
+[15-Nov-2016 12:14:34 UTC] PHP Fatal error:  Call to undefined function get_userdata() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 26
+[15-Nov-2016 12:39:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/course/edit_course.php on line 27
+[15-Nov-2016 12:39:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/course/edit_course.php on line 27
+[15-Nov-2016 12:56:38 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:56:40 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:56:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:57:01 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:57:02 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:57:03 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 12:57:25 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 45
+[15-Nov-2016 13:14:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/course/edit_course.php on line 74
+[15-Nov-2016 13:14:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/course/edit_course.php on line 74
+[15-Nov-2016 13:46:13 UTC] PHP Fatal error:  Call to undefined method Course_model::unblock_user() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 88
+[16-Nov-2016 04:52:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 46
+[16-Nov-2016 04:52:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 46
+[16-Nov-2016 05:05:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 83
+[16-Nov-2016 05:05:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 83
+[16-Nov-2016 05:10:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 7
+[16-Nov-2016 05:11:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 7
+[16-Nov-2016 12:39:11 UTC] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 230
+[16-Nov-2016 12:39:13 UTC] PHP Parse error:  syntax error, unexpected '$role' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 230
+[17-Nov-2016 05:13:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:13:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:14:26 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:15:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:15:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 05:15:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 112
+[17-Nov-2016 06:04:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 128
+[17-Nov-2016 06:04:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 128
+[17-Nov-2016 06:46:58 UTC] PHP Fatal error:  Call to undefined method Blog_model::add_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 36
+[17-Nov-2016 07:15:12 UTC] PHP Fatal error:  Call to undefined method Blog_model::delete_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 70
+[17-Nov-2016 07:15:33 UTC] PHP Fatal error:  Call to undefined method Blog_model::delete_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 70
+[17-Nov-2016 07:15:35 UTC] PHP Fatal error:  Call to undefined method Blog_model::delete_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 70
+[17-Nov-2016 07:15:36 UTC] PHP Fatal error:  Call to undefined method Blog_model::delete_course() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 70
+[17-Nov-2016 07:20:58 UTC] PHP Fatal error:  Call to undefined function php() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 70
+[17-Nov-2016 07:21:01 UTC] PHP Fatal error:  Call to undefined function php() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 70
+[17-Nov-2016 07:21:03 UTC] PHP Fatal error:  Call to undefined function php() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 70
+[17-Nov-2016 07:21:12 UTC] PHP Fatal error:  Call to undefined function php() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 70
+[17-Nov-2016 07:28:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 39
+[17-Nov-2016 07:29:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 39
+[17-Nov-2016 07:43:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 15
+[17-Nov-2016 07:44:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 19
+[17-Nov-2016 07:44:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 19
+[17-Nov-2016 07:44:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 19
+[17-Nov-2016 07:44:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 19
+[17-Nov-2016 07:57:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 140
+[17-Nov-2016 07:57:33 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 140
+[17-Nov-2016 07:59:02 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 140
+[17-Nov-2016 07:59:25 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 145
+[17-Nov-2016 07:59:27 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 145
+[17-Nov-2016 07:59:28 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 145
+[17-Nov-2016 07:59:28 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 145
+[17-Nov-2016 09:14:54 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 142
+[17-Nov-2016 09:14:56 UTC] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/home.php on line 142
+[17-Nov-2016 10:13:24 UTC] PHP Fatal error:  Cannot redeclare Blog_model::get_blog() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 103
+[17-Nov-2016 10:13:43 UTC] PHP Fatal error:  Cannot redeclare Blog_model::get_blog() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 103
+[17-Nov-2016 10:51:58 UTC] PHP Fatal error:  Cannot redeclare Blog_model::unblock_blog() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 104
+[17-Nov-2016 10:52:00 UTC] PHP Fatal error:  Cannot redeclare Blog_model::unblock_blog() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 104
+[17-Nov-2016 10:52:17 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 110
+[17-Nov-2016 10:54:35 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/blog/Blog_model.php on line 110
+[17-Nov-2016 12:42:23 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 86
+[17-Nov-2016 12:43:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 87
+[17-Nov-2016 13:34:47 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 113
+[17-Nov-2016 13:34:48 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 113
+[17-Nov-2016 13:35:00 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 113
+[17-Nov-2016 13:47:28 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 349
+[17-Nov-2016 13:49:47 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 349
+[18-Nov-2016 05:16:27 UTC] PHP Fatal error:  Call to undefined method Blog::resize() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 111
+[18-Nov-2016 05:24:06 UTC] PHP Fatal error:  Call to a member function data() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 344
+[18-Nov-2016 05:26:33 UTC] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 115
+[18-Nov-2016 05:27:28 UTC] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 115
+[18-Nov-2016 05:27:34 UTC] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 115
+[18-Nov-2016 05:30:49 UTC] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 115
+[18-Nov-2016 05:30:59 UTC] PHP Fatal error:  Call to undefined method CI_Image_lib::fit() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 115
+[18-Nov-2016 05:40:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 152
+[18-Nov-2016 05:40:45 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 152
+[18-Nov-2016 05:59:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 214
+[18-Nov-2016 06:00:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 214
+[18-Nov-2016 06:14:56 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 178
+[18-Nov-2016 06:15:21 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 178
+[18-Nov-2016 07:15:04 UTC] PHP Fatal error:  Call to undefined method Blog::logotyp() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 18
+[18-Nov-2016 07:26:54 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 354
+[18-Nov-2016 08:30:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 2
+[18-Nov-2016 08:34:06 UTC] PHP Parse error:  syntax error, unexpected '$thumbnail_image' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 98
+[18-Nov-2016 08:34:08 UTC] PHP Parse error:  syntax error, unexpected '$thumbnail_image' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/blog/edit_blog.php on line 98
+[18-Nov-2016 09:22:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 94
+[18-Nov-2016 09:23:19 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 94
+[18-Nov-2016 09:24:10 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 97
+[18-Nov-2016 09:48:38 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 36
+[18-Nov-2016 09:48:41 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 36
+[18-Nov-2016 09:49:11 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Blog.php on line 36
+[18-Nov-2016 11:22:55 UTC] PHP Fatal error:  Call to a member function add_catalog_event() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 22
+[18-Nov-2016 11:24:48 UTC] PHP Fatal error:  Call to a member function add_catalog_event() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 22
+[18-Nov-2016 11:46:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 85
+[18-Nov-2016 11:46:12 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 85
+[18-Nov-2016 11:46:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 85
+[18-Nov-2016 11:46:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 85
+[18-Nov-2016 11:58:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 22
+[18-Nov-2016 11:58:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 22
+[18-Nov-2016 11:59:00 UTC] PHP Fatal error:  Call to a member function add_catalog_event() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 23
+[18-Nov-2016 12:14:11 UTC] PHP Fatal error:  Call to a member function add_catalog_event() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 29
+[18-Nov-2016 12:48:22 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 14
+[18-Nov-2016 12:48:23 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 14
+[18-Nov-2016 13:08:35 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[18-Nov-2016 13:09:43 UTC] PHP Parse error:  syntax error, unexpected '$user_data' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 29
+[18-Nov-2016 13:10:06 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 04:46:39 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 04:48:06 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 04:49:14 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 05:58:11 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Catalogevent.php on line 31
+[21-Nov-2016 07:31:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/edit-profile.php on line 56
+[21-Nov-2016 09:32:05 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/provider/dashboard.php on line 6
+[21-Nov-2016 10:22:35 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 10:25:25 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 96
+[21-Nov-2016 10:48:33 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 61
+[21-Nov-2016 11:01:41 UTC] PHP Fatal error:  Call to a member function get_course_listing() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 19
+[21-Nov-2016 11:01:43 UTC] PHP Fatal error:  Call to a member function get_course_listing() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 19
+[21-Nov-2016 11:02:26 UTC] PHP Fatal error:  Call to undefined method Course_model::get_course_listing() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 20
+[21-Nov-2016 11:02:29 UTC] PHP Fatal error:  Call to undefined method Course_model::get_course_listing() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 20
+[21-Nov-2016 11:03:13 UTC] PHP Fatal error:  Call to undefined method Course_model::get_course_listing() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 20
+[21-Nov-2016 11:16:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 44
+[21-Nov-2016 11:16:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 44
+[21-Nov-2016 11:17:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Course.php on line 44
+[21-Nov-2016 11:53:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Courseregisteration.php on line 22
+[21-Nov-2016 11:53:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Courseregisteration.php on line 22
+[21-Nov-2016 11:53:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Courseregisteration.php on line 22
+[22-Nov-2016 05:49:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 85
+[22-Nov-2016 05:50:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 85
+[22-Nov-2016 05:50:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 85
+[22-Nov-2016 05:51:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 85
+[22-Nov-2016 06:43:22 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 64
+[22-Nov-2016 06:43:24 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 64
+[22-Nov-2016 07:23:56 UTC] PHP Fatal error:  Class 'BaseFacebook' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/facebook.php on line 25
+[22-Nov-2016 07:23:58 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:00 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:40 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:42 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:43 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:43 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:44 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:24:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 487
+[22-Nov-2016 07:25:03 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 486
+[22-Nov-2016 07:25:04 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 486
+[22-Nov-2016 07:25:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 486
+[22-Nov-2016 07:25:06 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/base_facebook.php on line 486
+[22-Nov-2016 07:26:44 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 07:56:18 UTC] PHP Fatal error:  Class 'CI_Image_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 07:56:19 UTC] PHP Fatal error:  Class 'CI_Image_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 07:57:55 UTC] PHP Fatal error:  Class 'CI_Uploadresize_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 07:57:57 UTC] PHP Fatal error:  Class 'CI_Uploadresize_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 08:50:50 UTC] PHP Fatal error:  Class 'BaseFacebook' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/facebook-api-php-codexworld/facebook.php on line 25
+[22-Nov-2016 08:57:29 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 08:57:32 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 08:58:07 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 08:58:10 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 08:59:24 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 08:59:27 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:03:25 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:03:27 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:05:49 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:05:54 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:06:29 UTC] PHP Fatal error:  Class 'CI_Uploadresize_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 09:06:57 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:07:07 UTC] PHP Fatal error:  Class 'CI_Image_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 09:07:09 UTC] PHP Fatal error:  Class 'CI_Image_lib' not found in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Uploadresize_lib.php on line 6
+[22-Nov-2016 09:39:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 24
+[22-Nov-2016 09:39:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 24
+[22-Nov-2016 09:40:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 21
+[22-Nov-2016 09:40:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 21
+[22-Nov-2016 09:42:40 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:43:03 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:43:05 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:43:48 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:44:13 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:48:03 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:51:36 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:51:39 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:51:39 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 181
+[22-Nov-2016 09:51:42 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:51:42 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 181
+[22-Nov-2016 09:52:39 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 09:54:07 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:07:11 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:07:47 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:07:49 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:07:50 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:07:51 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:22 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:50 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:52 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:53 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:54 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:09:55 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 84
+[22-Nov-2016 10:12:27 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:14:20 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:14:20 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 182
+[22-Nov-2016 10:14:22 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:14:22 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rows() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 182
+[22-Nov-2016 10:14:44 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:15:38 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:15:42 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:16:02 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:16:02 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 182
+[22-Nov-2016 10:16:03 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:16:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 182
+[22-Nov-2016 10:16:49 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:25:45 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:25:47 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:25:59 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:01 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:01 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:03 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:08 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:13 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:14 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:17 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:18 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:21 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:22 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:22 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:26:25 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_users() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 59
+[22-Nov-2016 10:26:28 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_users() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 59
+[22-Nov-2016 10:26:43 UTC] PHP Fatal error:  Call to undefined method Account_manage_model::get_users() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 59
+[22-Nov-2016 10:27:37 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:27:56 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:27:58 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:00 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:11 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:13 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:14 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:32 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:34 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:36 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:28:43 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:46:05 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:47:01 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:47:03 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 178
+[22-Nov-2016 10:47:58 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:48:14 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:48:16 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:48:17 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:49:13 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 181
+[22-Nov-2016 10:49:15 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 181
+[22-Nov-2016 10:50:04 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:50:07 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:50:07 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::num_row() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/account/Account_manage_model.php on line 183
+[22-Nov-2016 10:50:32 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:50:34 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:51:09 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:51:32 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:52:16 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:53:26 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:53:56 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:55:29 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:55:31 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:55:32 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 10:56:18 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:13:50 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:26:10 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:29:00 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:29:59 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:36:05 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 63
+[22-Nov-2016 11:36:07 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 63
+[22-Nov-2016 11:36:38 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:37:09 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:37:34 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:38:06 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:38:59 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:40:52 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 11:41:37 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:04:43 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 82
+[22-Nov-2016 12:04:45 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 82
+[22-Nov-2016 12:18:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 42
+[22-Nov-2016 12:18:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/login.php on line 42
+[22-Nov-2016 12:23:25 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:23:26 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:23:45 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:25:22 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:28:07 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:29:01 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:29:21 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 12:32:27 UTC] CSRF state token does not match one provided.
+[22-Nov-2016 13:34:48 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 27
+[22-Nov-2016 13:34:51 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 27
+[22-Nov-2016 13:35:14 UTC] PHP Fatal error:  Cannot use object of type CI_Session as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 27
+[22-Nov-2016 13:37:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 27
+[22-Nov-2016 13:37:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 27
+[22-Nov-2016 13:40:26 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 26
+[22-Nov-2016 13:40:28 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 26
+[22-Nov-2016 13:48:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 26
+[22-Nov-2016 13:48:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 26
+[23-Nov-2016 04:28:48 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 44
+[23-Nov-2016 04:28:50 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 44
+[23-Nov-2016 04:34:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 67
+[23-Nov-2016 04:36:24 UTC] PHP Parse error:  syntax error, unexpected '$logo_image' (T_VARIABLE), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 72
+[23-Nov-2016 04:36:28 UTC] PHP Parse error:  syntax error, unexpected '$logo_image' (T_VARIABLE), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/wrapper-start.php on line 72
+[23-Nov-2016 06:09:56 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 67
+[23-Nov-2016 06:09:58 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 67
+[23-Nov-2016 06:10:45 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 67
+[23-Nov-2016 06:10:47 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 67
+[23-Nov-2016 06:10:52 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 37
+[23-Nov-2016 06:11:10 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 37
+[23-Nov-2016 06:16:32 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 46
+[23-Nov-2016 06:19:08 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 46
+[23-Nov-2016 06:19:10 UTC] PHP Fatal error:  Call to a member function getUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 46
+[23-Nov-2016 06:19:11 UTC] PHP Fatal error:  Call to undefined function get_settings() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[23-Nov-2016 06:20:40 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 77
+[23-Nov-2016 06:20:42 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 77
+[23-Nov-2016 06:21:54 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 77
+[23-Nov-2016 06:21:56 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 77
+[23-Nov-2016 06:21:58 UTC] PHP Fatal error:  Call to a member function getLoginUrl() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 77
+[23-Nov-2016 06:22:32 UTC] PHP Fatal error:  Call to undefined function get_settings() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/public/header.php on line 2
+[23-Nov-2016 06:29:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/dashboard/student/left-sidebar.php on line 11
+[23-Nov-2016 10:50:28 UTC] PHP Fatal error:  Call to a member function add() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 77
+[23-Nov-2016 12:33:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/event.php on line 174
+[23-Nov-2016 13:35:43 UTC] PHP Fatal error:  Call to a member function add() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 29
+[23-Nov-2016 13:41:44 UTC] PHP Fatal error:  Call to undefined method Event_model::add() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 40
+[24-Nov-2016 06:39:22 UTC] PHP Fatal error:  Call to undefined function add() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 97
+[24-Nov-2016 06:40:21 UTC] PHP Fatal error:  Call to undefined function add() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 97
+[24-Nov-2016 11:14:57 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 25
+[24-Nov-2016 11:15:07 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 25
+[24-Nov-2016 12:25:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/catalogevent/Event_model.php on line 19
+[24-Nov-2016 12:25:59 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/catalogevent/Event_model.php on line 19
+[24-Nov-2016 13:29:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 113
+[24-Nov-2016 13:29:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 113
+[24-Nov-2016 13:29:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 113
+[24-Nov-2016 13:31:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 113
+[24-Nov-2016 13:31:26 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:31:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:31:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:32:00 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:32:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:32:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:32:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[24-Nov-2016 13:32:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 118
+[25-Nov-2016 04:24:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 115
+[25-Nov-2016 04:24:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 115
+[25-Nov-2016 04:27:39 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/catalog.php on line 115
+[25-Nov-2016 05:44:19 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 166
+[25-Nov-2016 05:44:22 UTC] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 166
+[25-Nov-2016 08:57:11 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 87
+[25-Nov-2016 08:57:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 87
+[28-Nov-2016 09:11:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 13
+[28-Nov-2016 09:11:18 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:11:42 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:11:43 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:11:51 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:12:29 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:12:54 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:16:46 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 51
+[28-Nov-2016 09:21:39 UTC] PHP Fatal error:  Call to undefined method Provider::makeAuth() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:21:41 UTC] PHP Fatal error:  Call to undefined method Provider::makeAuth() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:01 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:03 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:04 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:05 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:06 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:26 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:28 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:50 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:22:52 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:41:12 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 09:41:29 UTC] PHP Fatal error:  Call to a member function test() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 50
+[28-Nov-2016 10:03:14 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 180
+[28-Nov-2016 10:03:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 180
+[28-Nov-2016 10:41:30 UTC] PHP Fatal error:  Call to undefined function createFolder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 182
+[28-Nov-2016 10:47:22 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 9
+[28-Nov-2016 10:47:42 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 9
+[28-Nov-2016 11:02:58 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 14
+[28-Nov-2016 11:03:19 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 14
+[28-Nov-2016 11:03:20 UTC] PHP Fatal error:  Call to a member function makeAuth() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 14
+[28-Nov-2016 11:19:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 191
+[28-Nov-2016 11:20:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 191
+[28-Nov-2016 11:20:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 191
+[28-Nov-2016 11:21:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 191
+[29-Nov-2016 05:28:53 UTC] PHP Fatal error:  Call to undefined function print_() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/common/Common_model.php on line 34
+[29-Nov-2016 05:55:24 UTC] PHP Fatal error:  Call to undefined method Common_model::get_folder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 40
+[29-Nov-2016 05:55:29 UTC] PHP Fatal error:  Call to undefined method Common_model::get_folder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 85
+[29-Nov-2016 05:55:32 UTC] PHP Fatal error:  Call to undefined method Common_model::get_folder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 40
+[29-Nov-2016 05:56:50 UTC] PHP Fatal error:  Call to undefined method Common_model::get_folder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 114
+[29-Nov-2016 05:57:27 UTC] PHP Fatal error:  Call to undefined method Common_model::get_folder() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 69
+[29-Nov-2016 10:12:16 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 92
+[29-Nov-2016 10:24:23 UTC] PHP Fatal error:  Call to a member function getRows() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 90
+[29-Nov-2016 10:25:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 91
+[29-Nov-2016 11:32:03 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 38
+[29-Nov-2016 11:32:45 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 38
+[29-Nov-2016 11:33:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 38
+[29-Nov-2016 11:58:36 UTC] PHP Fatal error:  Call to a member function insertTransaction() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 119
+[29-Nov-2016 13:18:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Page.php on line 119
+[30-Nov-2016 05:43:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 42
+[30-Nov-2016 05:43:44 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/helpers/common_helper.php on line 42
+[30-Nov-2016 05:50:08 UTC] PHP Fatal error:  Call to undefined function pr() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/provider/catalog.php on line 26
+[30-Nov-2016 06:09:04 UTC] PHP Fatal error:  Call to a member function join() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/provider/Provider_model.php on line 39
+[30-Nov-2016 07:56:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/provider/edit-catalog.php on line 299
+[30-Nov-2016 07:57:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/account/provider/edit-catalog.php on line 299
+[30-Nov-2016 10:19:48 UTC] PHP Fatal error:  Cannot redeclare Provider::uploader_pdf() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 261
+[30-Nov-2016 13:16:22 UTC] PHP Fatal error:  Call to undefined method Common_model::update_event() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Provider.php on line 156
+[02-Dec-2016 11:31:28 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/add_catalog.php on line 211
+[02-Dec-2016 11:35:08 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/provider/Provider_model.php on line 52
+[05-Dec-2016 06:04:40 UTC] PHP Fatal error:  Call to undefined method Common_model::update_event() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 102
+[05-Dec-2016 10:41:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 197
+[05-Dec-2016 10:41:53 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 197
+[05-Dec-2016 10:52:44 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 101
+[05-Dec-2016 10:52:54 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Mastercatalog.php on line 101
+[05-Dec-2016 12:35:10 UTC] PHP Fatal error:  Call to undefined method Category_model::getCategoryById() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Creditcategory.php on line 52
+[05-Dec-2016 12:35:19 UTC] PHP Fatal error:  Call to undefined method Category_model::getCategoryById() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Creditcategory.php on line 52
+[05-Dec-2016 12:35:21 UTC] PHP Fatal error:  Call to undefined method Category_model::getCategoryById() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/admin/Creditcategory.php on line 52
+[06-Dec-2016 12:21:01 UTC] PHP Fatal error:  Call to undefined method Common_model::getwebinar() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 21
+[07-Dec-2016 05:03:29 UTC] PHP Fatal error:  Call to a member function getwebinar() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 95
+[07-Dec-2016 09:24:04 UTC] PHP Fatal error:  Call to a member function createUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 440
+[08-Dec-2016 10:10:57 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/test.php on line 1
+[08-Dec-2016 11:12:14 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/test.php on line 1
+[08-Dec-2016 13:06:37 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 09:07:18 UTC] PHP Fatal error:  Call to a member function createUser() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Home.php on line 64
+[09-Dec-2016 10:32:21 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 10:32:24 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 11:26:42 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/test.php on line 1
+[09-Dec-2016 12:14:59 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 62
+[09-Dec-2016 12:18:18 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:18:22 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:18:30 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:18:33 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:18:43 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:19:03 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:20:33 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:21:27 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:21:45 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:22:14 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:22:21 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:25:20 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:27:21 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:27:24 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:27:41 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[09-Dec-2016 12:29:03 UTC] PHP Fatal error:  Call to undefined method Exception::getSeverity() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 64
+[12-Dec-2016 07:03:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 139
+[12-Dec-2016 07:03:15 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 139
+[12-Dec-2016 07:03:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 139
+[12-Dec-2016 07:03:35 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 139
+[12-Dec-2016 07:03:50 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 07:04:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 07:04:16 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 07:05:11 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 07:19:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 07:21:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/views/admin/master_catalog/edit_catalog.php on line 138
+[12-Dec-2016 12:16:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:16:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:16:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:16:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:16:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:17:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 62
+[12-Dec-2016 12:59:23 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/catalogevent/Event_model.php on line 28
+[12-Dec-2016 12:59:24 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/models/admin/catalogevent/Event_model.php on line 28
+[13-Dec-2016 12:53:26 UTC] PHP Fatal error:  Call to undefined method Common_model::filterWebinars() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Student.php on line 49
+[13-Dec-2016 13:01:56 UTC] PHP Fatal error:  Call to undefined method Exception::setHost() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/libraries/Adobe.php on line 61
+[13-Dec-2016 13:21:40 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:21:42 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:21:43 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:21:44 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:22:09 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:22:10 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:24:59 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[13-Dec-2016 13:25:01 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[14-Dec-2016 04:52:16 UTC] PHP Fatal error:  Call to undefined method Adobe::loginAdobe() in /home/trigmaus/public_html/subdomains/dev114/dev6/lms/application/controllers/Account.php on line 17
+[19-Dec-2016 09:49:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/pages/page.php on line 9
+[26-Dec-2016 05:27:04 UTC] PHP Fatal error:  Call to a member function get_courselist() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Subject.php on line 20
+[26-Dec-2016 05:39:41 UTC] PHP Fatal error:  Call to undefined method Subject_model::get_sujectlist() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Subject.php on line 20
+[26-Dec-2016 06:15:22 UTC] PHP Fatal error:  Call to undefined method Subject_model::update_subject() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Subject.php on line 68
+[26-Dec-2016 07:39:37 UTC] PHP Fatal error:  Call to a member function getsubjects() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Course.php on line 30
+[26-Dec-2016 11:57:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 108
+[26-Dec-2016 12:03:35 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 108
+[26-Dec-2016 12:04:00 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 115
+[26-Dec-2016 12:04:02 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 115
+[26-Dec-2016 12:04:04 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 115
+[26-Dec-2016 12:04:20 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 122
+[26-Dec-2016 12:04:36 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/views/admin/course/edit_course.php on line 129
+[27-Dec-2016 07:03:42 UTC] PHP Fatal error:  Call to undefined method Workshop_model::add_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 46
+[27-Dec-2016 07:19:41 UTC] PHP Fatal error:  Call to a member function delete_course() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 93
+[27-Dec-2016 07:23:16 UTC] PHP Fatal error:  Call to a member function delete_course() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 93
+[27-Dec-2016 07:23:56 UTC] PHP Fatal error:  Call to undefined method Workshop_model::delete_course() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 93
+[27-Dec-2016 07:25:24 UTC] PHP Fatal error:  Call to a member function unblock_course() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 115
+[27-Dec-2016 07:33:39 UTC] PHP Fatal error:  Call to undefined method Workshop_model::edit_course() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 61
+[27-Dec-2016 09:40:13 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 09:41:10 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 09:41:12 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 09:41:33 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 09:41:36 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 09:42:05 UTC] PHP Fatal error:  Cannot redeclare Workshop_model::get_workshop() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/workshop/Workshop_model.php on line 86
+[27-Dec-2016 10:00:28 UTC] PHP Fatal error:  Call to a member function get_courselist() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 210
+[27-Dec-2016 10:03:19 UTC] PHP Fatal error:  Call to undefined method Workshop_model::getcourse() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 212
+[27-Dec-2016 11:53:35 UTC] PHP Fatal error:  Using $this when not in object context in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/mailtest.php on line 2
+[28-Dec-2016 06:02:19 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/instructor/Instructor_model.php on line 12
+[28-Dec-2016 07:57:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 266
+[28-Dec-2016 09:48:04 UTC] PHP Fatal error:  Call to a member function user() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 223
+[28-Dec-2016 11:03:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 126
+[02-Jan-2017 12:28:41 UTC] PHP Fatal error:  Call to a member function getinstructors() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Workshop.php on line 30
+[02-Jan-2017 13:12:18 UTC] PHP Fatal error:  Call to undefined method Certificate_model::get_subjectlist() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 20
+[02-Jan-2017 13:24:35 UTC] PHP Fatal error:  Call to undefined method Certificate_model::add_subject() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 44
+[02-Jan-2017 13:28:31 UTC] PHP Fatal error:  Call to undefined method Certificate_model::edit_subject() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 56
+[02-Jan-2017 13:29:23 UTC] PHP Fatal error:  Call to undefined method Certificate_model::edit_subject() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 56
+[03-Jan-2017 07:04:58 UTC] PHP Fatal error:  Cannot redeclare Certificate_model::get_courses() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/certificate/Certificate_model.php on line 128
+[03-Jan-2017 10:34:36 UTC] PHP Fatal error:  Cannot redeclare Certificate_model::edit_certificate() in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/certificate/Certificate_model.php on line 126
+[03-Jan-2017 11:31:31 UTC] PHP Parse error:  syntax error, unexpected ''admin/' (T_ENCAPSED_AND_WHITESPACE) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 135
+[03-Jan-2017 11:36:36 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 91
+[03-Jan-2017 11:36:39 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Certificate.php on line 91
+[04-Jan-2017 05:41:32 UTC] PHP Fatal error:  Call to a member function get_navbaritems() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Page.php on line 21
+[04-Jan-2017 05:41:35 UTC] PHP Fatal error:  Call to a member function get_navbaritems() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Page.php on line 21
+[04-Jan-2017 05:52:38 UTC] PHP Fatal error:  Call to a member function get_navbaritems() on a non-object in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/admin/Course.php on line 19
+[24-Feb-2017 06:06:19 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 139770967 bytes) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/system/core/Output.php on line 189
+[24-Feb-2017 06:09:17 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 139770967 bytes) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/system/core/Output.php on line 189
+[24-Feb-2017 06:13:11 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 139751335 bytes) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/system/core/Output.php on line 189
+[24-Feb-2017 06:15:58 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 144397575 bytes) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/system/core/Output.php on line 189
+[24-Feb-2017 09:57:25 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 287
+[24-Feb-2017 09:57:30 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 287
+[24-Feb-2017 09:58:12 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 288
+[24-Feb-2017 09:58:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 289
+[24-Feb-2017 09:58:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 289
+[24-Feb-2017 09:58:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/controllers/Page.php on line 288
+[24-Feb-2017 10:18:48 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/course/Course_model.php on line 58
+[24-Feb-2017 10:29:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/trigmaus/public_html/subdomains/dev114/dev5/codigproject/application/models/admin/course/Course_model.php on line 59

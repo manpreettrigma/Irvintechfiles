@@ -1,0 +1,19 @@
+
+	.col-md-9.col-sm-9.col-xs-12{
+		margin-top:2%;
+	}
+	#progress-wrp .progress-bar {
+    height: 20px;
+    border-radius: 3px;
+    background-color: #169F85;
+    width: 0;
+    box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+}
+	#progress-wrp-pdf .progress-bar {
+    height: 20px;
+    border-radius: 3px;
+    background-color: #169F85;
+    width: 0;
+    box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+}
+	

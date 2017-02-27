@@ -1,0 +1,40 @@
+@media only screen and (max-width:1100px){
+.provider_logo{width:60%;}
+.provider_address{width:38%;}
+.select{width:23%;}
+.datepicker_outer{width:23%;}
+}
+
+@media only screen and (max-width:980px){
+.rltd::before{border-width: 12px;}
+.rltd::after{border-width: 12px;}
+.rltd_service{border-radius: 2px 2px 14px;}
+}
+
+@media only screen and (max-width:840px){
+.provider_logo{width:55%;}
+.provider_address{width:42%;}
+.select {margin: 1%; width: 48%;}
+.datepicker_outer{margin: 1%; width: 48%;}
+.filter h5 {text-align: center; padding-top: 8px;}
+}
+
+@media only screen and (max-width:800px){
+}
+
+@media only screen and (max-width:767px){
+.provider_logo{width:100%; margin-bottom:20px;}
+.provider_address{width:100%;}
+.lft_in {width: 100%; margin-bottom: 45px;}
+.rght_in{width:100%; }
+.tab_content_wrapper{margin:0 0 40px;}
+.cnt_sec{margin-bottom:0px;}
+}
+
+@media only screen and (max-width:480px){
+.select {margin: 2% 1%; width: 98%;}
+.datepicker_outer{margin: 2% 1%; width: 98%;}
+.rltd_service {margin: 15px 0;width: 100%;}
+.addwish{font-size:13px; padding:10px 18px;}
+.addcart{font-size:13px; padding:10px 18px;}
+}

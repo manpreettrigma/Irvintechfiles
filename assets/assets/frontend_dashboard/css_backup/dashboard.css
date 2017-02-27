@@ -1,0 +1,403 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display:block;
+}
+body {
+	line-height:1;
+	font-family: 'Lato', sans-serif;
+}
+ol, ul, li {
+	list-style:none;
+}
+blockquote, q {
+	quotes:none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content:'';
+	content:none;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+a{
+ text-decoration:none;
+ transition:all ease 0.5s;
+ -webkit-transition:all ease 0.5s;
+ }
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+.dashboard-container{
+ width:100%;
+ float:left;
+ display:block;
+ }
+ 
+.dashboard-top {
+  float: left;
+  width: 100%;
+  padding: 18px 0;
+}
+ 
+ .dashboard-wrapper{
+ width:94%;
+ margin:0 auto;
+ }
+ 
+ .logo {
+  float: left;
+}
+
+.top-right {
+  float: right;
+}
+
+.top-right ul li {
+  float: left;
+  margin-left:25px;
+}
+
+.top-right ul li img {
+  margin: 0 8px;
+  vertical-align: middle;
+}
+
+.top-right ul li span.notifications {
+  color: #313233;
+  float: left;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.top-right ul li span.numbers {
+  background:#ef323b;
+  border-radius: 50%;
+  color: #fff;
+  float: left;
+  font-size: 9px;
+  height: 18px;
+  line-height: 18px;
+  position: relative;
+  right: 12px;
+  text-align: center;
+  top: 5px;
+  width: 18px;
+}
+
+.top-right ul li a {
+  font-size: 14px;
+  color: #313233;
+  font-family: 'ralewaysemibold';
+}
+
+.user-section {
+  width: 100%;
+  float: left;
+  background: url(../images/user-section-bg.jpg) no-repeat;
+  background-size:cover;
+  padding:27px 0;
+}
+
+.user-detail {
+  float: left;
+}
+
+.user-detail > img {
+  float: left;
+  margin-right: 30px;
+  vertical-align: middle;
+}
+
+.user-detail > span {
+  color: #fff;
+  float: left;
+  font-size: 32px;
+  font-weight: 600;
+  margin: 26px 0;
+}
+
+.breadcrumb {
+  float: right;
+  margin-top:35px;
+}
+
+.breadcrumb li {
+  float: left;
+  padding: 0 12px 0 4px;
+  background:url(../images/breadcrumb-bg.png) no-repeat right center;
+}
+
+.breadcrumb li:last-child {
+  padding-right: 0;
+  background:none;
+}
+
+.breadcrumb li:last-child a {
+  font-weight:600;
+}
+
+.breadcrumb li a {
+  color: #fff;
+  font-size: 14px;
+}
+
+.button-section {
+  background: #f0f0f0 ;
+  float: left;
+  width: 100%;
+  padding: 10px 0;
+}
+
+button.dashboard {
+  background: #0ebff3;
+  border: 1px solid #0ebff3;
+  border-radius: 3px;
+  color: #fff;
+  float: left;
+  font-size: 13px;
+  padding:6px 10px;
+  font-weight:600;
+}
+
+button.dashboard span {
+  font-size: 16px;
+  margin: 0 5px 0 0;
+}
+
+button.customize {
+  background: #ef323b;
+  border: 1px solid #ef323b;
+  border-radius: 3px;
+  color: #fff;
+  float: right;
+  font-size: 13px;
+  padding:8px 15px;
+  font-weight:600;
+}
+
+.dashboard-content {
+  float: left;
+  width: 100%;
+  padding: 32px 0;
+}
+
+.left-content {
+  float: left;
+  width: 25%;
+}
+
+.left-group {
+  background: #0ebff3;
+  float: left;
+  margin-bottom: 10px;
+  padding: 20px 24px;
+  width: 100%;
+  border-radius:3px;
+}
+
+.left-group h2 {
+  color: #202020;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.left-group > ul > li  {
+  margin-bottom: 20px;
+}
+
+.left-group > ul > li > a {
+  font-size: 14px;
+  color: #fff;
+}
+
+.left-group > ul > li > a > span {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+ul.sublinks {
+  margin-top: 10px;
+}
+
+.left-group > ul > li > ul > li {
+  margin-bottom: 10px;
+  padding-left: 24px;
+}
+
+.left-group > ul > li > ul > li > a {
+  font-size:13px;
+  color:#fff;
+}
+
+.left-group > ul > li > ul > li > a span {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.middle-content {
+  float: left;
+  padding: 15px 30px 0;
+  width: 50%;
+}
+
+.right-content {
+  width: 25%;
+  float: left;
+}
+
+.right-content .left-group {
+  background:#dff4fa;
+}
+
+.content-col {
+  border-bottom:1px solid #dedede;
+  float: left;
+  padding-bottom: 20px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.content-col > h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+   font-family: 'ralewaybold';
+   color:#313233;
+}
+
+.content-col > h2 span {
+   font-family: 'ralewayregular';
+}
+
+.content-col p {
+  font-size: 13px;
+  line-height: 20px;
+  color: #555555;
+}
+
+.content-col p a {
+  color: #0dbff2;
+}
+
+.upcome.webinarss {
+  float: left;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.upcome.webinarss .service.web:first-child {
+  margin-left: 0;
+}
+
+.upcome.webinarss .service.web {
+  margin-left: 26px;
+  width: 30%;
+}
+
+.upcome.webinarss .service-content {
+  padding: 12px;
+}
+
+.upcome.webinarss .service-content > p{
+ font-size:12px;
+ line-height:16px;
+ }
+ 
+ .upcome.webinarss .timing h4 {
+  font-size: 13px;
+}
+
+.upcome.webinarss .service .fa {
+  color: #0dbff2;
+  font-size: 15px;
+  height: auto;
+  margin-right: 10px;
+  text-align: center;
+  width: auto;
+}
+
+.upcome.webinarss .timing {
+  margin-top: 5px;
+}
+
+.upcome.webinarss .timing h4 span b {
+  font-weight: bold;
+}
+
+.upcome.webinarss .web::before {
+  border-color: #fff;
+  border-style: solid;
+  border-width: 10px;
+}
+
+.upcome.webinarss .web::before {
+  border-width: 10px;
+}
+
+.upcome.webinarss .web::after {
+  border-width: 10px;
+}
+
+.service {
+  background-color: #fff;
+  border: 0 solid #616161;
+  border-radius: 2px 2px 22px;
+  float: left;
+  margin-left: 29px;
+  padding-bottom: 22px;
+  position: relative;
+  width: 23.1%;
+}
+
+.upcome.webinarss .service {
+  border-radius: 2px 2px 30px;
+}
+
+.middle-content h1 {
+  border-bottom: 1px solid #dedede;
+  color: #0dbff2;
+  float: left;
+  font-size: 22px;
+  margin-bottom: 20px;
+  margin-top: -12px;
+  padding-bottom: 20px;
+  width: 100%;
+  font-family: 'ralewaymedium';
+}
+
+.content-col:last-child {
+  border-bottom:none;
+}
+
+.dashboard-container footer .wrapper {
+  width: 94%;
+}

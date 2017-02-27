@@ -1,0 +1,695 @@
+@charset "UTF-8";
+ 
+@media only screen and (min-width: 1377px) {
+	.jumboText {
+		margin-top: 168px;
+	}
+	.featuresMain {
+    margin-top: 250px;    /*  305px   */
+	}
+	.slideArea #block2 {
+		height: 1077px !important;
+	}
+}
+@media only screen and (max-width: 1220px) {
+   .container {max-width:960px;}   
+   .siteBrand {max-width: 270px;}    
+   section{overflow:hidden;}
+   .courseIntro .introBlock h1 { font-size: 26px;line-height: 35px;}
+   .termDetails .termDetailsBlock article i { max-width: 25px;}
+   .headerRight nav ul li a { padding: 5px 15px;}
+   .termDetails.col-3 .termDetailsBlock article {
+    margin-left: 10px;
+}
+   .termDetailsBlock article h2 {font-size: 13px;}
+   .termDetailsBlock article p { font-size: 14px;}
+   	.payment-left {
+    padding: 46px 15px 0 0;
+	}
+	.featuresMain {
+    margin-top: 54px;
+	}
+	.training-wrapper {
+    margin: 153px auto;
+	}
+	.footer-wrapper {
+    padding: 0;
+	}
+	.rmm.style ul li a {
+    padding: 8px 12px;
+	}
+	.jumboText h1 {
+    font-size: 60px;
+	}
+	.jumboText h2 {
+    font-size: 40px;
+	}
+	.training-wrapper h1 {
+    font-size: 40px;
+	}
+	.training-wrapper h2 {
+    font-size: 25px;
+	}	
+	.About-purpose .training-wrapper h1 {
+    font-size: 40px;
+	}
+	.About-purpose .training-wrapper h2 {
+    font-size: 18px;
+	}
+	.enrollnow h1 {
+    font-size: 30px;
+	}
+	.newsletterInfo h2 {
+		text-align: left;
+	}
+	.newsletterInfo h2 {
+    margin-top: 0;
+	}
+	.newsletterInfo p {
+    text-align: left;
+	}
+	.projectTraining #projectTraining {
+    height: 500px;
+	}	
+	.projectTraining #purpose {
+    height: 500px;
+	}
+	.educationalStages {
+		padding: 50px 0;
+	}
+    .coreValues {
+		padding: 50px 0;
+	}
+}
+
+
+@media only screen and (max-width: 1024px) {
+.values ul li {
+    width: 33.33%;
+}
+	.aboutPage h3 {
+    margin-top: 25px;
+    font-size: 24px;
+	margin-bottom: 5px;
+	}
+	.aboutPage p {
+    font-size: 15px;
+	}
+	.selectCourse .colRow .colblock h1 {
+		font-size: 22px;
+	}
+.ourStory p {
+  font-size: 18px;
+  line-height: 30px;
+  padding:0 40px;
+}
+.mission p {
+  font-size: 18px;
+  line-height: 30px;
+  padding:0 40px;
+}	
+}
+
+@media only screen and (max-width: 980px) {
+	.container {max-width:100%;}	
+	.siteBrand {max-width: 200px;} 
+	.headerRight nav ul li a {font-size: 12px; padding:5px 13px;}
+		.contactBlock ul li {
+		width: 100%;
+	}
+	.articleInfo {
+    max-width: 100%;
+	width: 100%;
+	}
+	#projectTraining .owl-prev {
+    margin-left: 5px;
+}
+#projectTraining .owl-next {
+    margin-right: 5px;
+}
+#purpose .owl-next {
+    margin-right: 5px;
+}
+
+}
+
+@media only screen and (max-width: 840px) {
+	.enrolBtn a {font-size: 11px;line-height: 37px;padding: 0 12px;}
+	.jumboText h1 {font-size: 55px; line-height: 55px;}
+	.jumboText {margin-top: 80px;}
+
+	.jumboText h3 {font-size: 20px;}
+	.featuresMain .featureBlock h3 {font-size: 13px; padding: 8px 0;}
+	.sectionTitle h1 { font-size: 40px;}
+	.sectionTitle h3 { padding-top:5px; font-size: 15px;}
+	.offerBlock h2 {font-size: 15px;}
+	.offerBlock p { font-size: 14px;}
+	.offerBlock > img { max-width: 75px;}
+	.chooseBlock h3 { font-size: 20px;}
+	.chooseBlock h2 { font-size: 24px;}
+	.chooseBlock p { font-size: 13px; line-height: 22px;  margin-top: 5px;}
+	.infoCount .countblock h1 {font-size: 50px;line-height: 50px;}
+	.infoCount {  padding: 5px 0;}
+	.imgblock { height: 130px;width: 130px;}
+	.InstructorsBlock p { font-size: 13px; line-height: 20px;}
+	.newsletterInfo h2 {font-size: 18px;}
+	.newsletterInfo p {font-size: 14px;}
+	.newsletterInfo span { height: 56px; margin-top: -28px; top: 50%;}
+	.footerBlock ul li a {font-size: 13px; margin: 20px 0 0;}
+	.larg-w { width: 35%;}
+	.medium-w { width: 30%;}
+	ul.socialConnect li a i {font-size: 15px;}
+	ul.socialConnect li a { height: 35px;line-height: 35px; margin: 3px; width: 35px;}
+	.headerRight nav ul li a {padding: 5px 10px;}
+	
+	.infoBlock h4 {font-size: 13px;}
+	.courseIntro .introBlock h1 {font-size: 24px; line-height: 27px;}
+	.infoBlock h2 {font-size: 20px;}
+	.introBlock .enrolBtn a {font-size: 15px; height: 42px; line-height: 45px;}
+	.termDetails { padding: 10px 5px;}
+	.termDetailsBlock article h2 { font-size: 11px;}
+	.termDetailsBlock article p { font-size: 12px;}
+	.courseDescription .artHead h1 {font-size: 15px;line-height: 16px;}
+	ul.listingCOl2 li {padding-right: 10px;}
+	.courseDescription ul li {font-size: 13px;padding-left: 16px;}
+	.courseDescription table tr td { padding: 8px 0;}
+	.courseDescription table tbody tr td { font-size: 12px;}
+	.courseDescription table thead th {font-size: 14px;}
+	.sidebarHeader h1 { font-size: 20px;}
+	.requestForm h1 { font-size: 15px;}
+	.pageSidebar ul li .link {font-size: 13px;}
+	.submenu a { padding: 8px 11px 8px 0;}
+	.form-main form .inputField button {font-size: 16px;}
+	.siteBrand {
+    max-width: 170px;
+	}
+	.selectCourse .colRow .colblock {
+    display: block;
+    width: 100%;
+    float: left;
+	}
+	.selectCourse .colRow .colblock.imgBlock {
+    width: 100%;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+.headerRight nav ul li a {
+    padding: 5px 8px;
+}
+
+}
+ 
+
+
+@media only screen and (max-width: 767px) {
+.headerRight .enrolBtn {display:none;}
+.siteBrand { max-width: 270px;}
+ 
+.headerMain { padding: 10px 0; position:relative;}
+.headerMain .site-nav ul{position:absolute; top:100%; left:0; width:100%; background:rgba(255,255,255,0.95); }
+.headerMain .site-nav ul li {border:0; width:100%; padding:0; }
+.headerMain .site-nav ul li a {padding:9px 20px; font-size:14px; text-transform:uppercase; color:#222; width:100%; margin:0; float:left;}
+.headerMain .site-nav ul li + li a {border-top:1px solid #dbdbdb;}
+.headerMain .site-nav ul li a:after {content:none;}
+.headerMain .site-nav ul li a:hover {color:#00416f;}
+.mobile-only {display:block;}
+.desktop-only {display:none;}
+.blocksOverHeader .featuresMain {margin:15px 0;}
+.parallax-window {min-height: 500px;}
+.chooseBlock { margin: 0; width: 100%;}
+.chooseBlock + .chooseBlock {padding-top:15px;  padding-left: 0;}
+.featuresMain .featureBlock {float: left;min-height: 225px; width:50%;}
+.offerBlock { width: 50%;}
+.offerBlock:nth-of-type(3) {clear:left;}
+.gallerySlider .owl-buttons .owl-prev, .gallerySlider .owl-buttons .owl-next { height: 35px; margin-left: -30px;width: 30px;}
+.gallerySlider .owl-buttons .owl-next { margin-right: -30px;}
+.gallerySlider {padding: 0 30px;}
+.small-w{ width: 30%;}
+.medium-w { width: 40%;}
+.larg-w { width: 100%;}
+
+.mobileOnly{display:block; visibility:visible;}
+.pageContent {width: 100%;}
+.innerPageView { }
+.pageSidebar { left:-9999px; padding-right: 0; position: fixed; width: 230px; background:#fff; z-index:999; overflow:auto; 
+transition:all ease 450ms; visibility:hidden; opacity:0;  top: 0;  bottom:0; height:100%; position:fixed; overflow-y:scroll;
+    overflow-x:hidden;}
+.pageSidebar.active {visibility:visible; opacity:1; transition:all ease 450ms; left:0;}
+.asideWrape {overflow:auto; height:100%;}
+.bv-video-wrap {
+  height: 463px !important;
+}
+.accordion-body,
+.accordion-header {
+    font-size: 14px;
+}
+.accordion-body {
+    padding: 14px;
+}
+.accordion-header::before {
+    left: 12px;
+}
+.accordion-body h2 {
+    font-size: 15px;
+}
+.dailySchedule ul li {
+    font-size: 15px;
+}
+.faq-outer {
+    margin-top: 0;
+}
+.payment-left {
+    display: block;
+    width: 100%;
+    padding:  0 0;
+}
+.payment-right {
+	    display: block;
+    width: 100%;
+	padding: 0 15px;
+}
+.payment-wrapper h1 {
+    font-size: 18px;
+}
+.payment-section {
+    padding: 20px 0 14px;
+}
+.payment-wrapper h2 {
+    font-size: 18px;
+}
+.radio-group-inline {
+    padding: 10px 0 15px;
+}
+.apply-payment {
+    font-size: 20px;
+}
+#cssmenu {
+    position: static;
+}
+.rmm.style ul ul {
+    width: 100%;
+}
+.headerRight nav ul li.active a, .headerRight nav ul li a:hover {
+    color: #222;
+}
+.headerRight nav > ul > li + li a {
+    border-left: 0;
+}
+.jumboText h2 {
+    font-size: 30px;
+}
+.jumboText h1 {
+    font-size: 34px;
+}
+.jumboText h3 {
+    font-size: 15px;
+}
+.slideArea #block2{
+height: 408px !important;
+}
+.jumboText {
+    margin-top: 20px;
+}
+.enrollnow h1 {
+    font-size: 25px;
+}
+.footerBlock ul li a {
+    margin: 0;
+}
+.footerBlock ul li {
+    margin: 0 0 10px 0;
+}
+.footerBlock h1 {
+    padding: 14px 0 15px;
+}
+.social-list img {
+    max-width: 30px;
+}
+.copyrights p {
+    padding: 0 15px;
+}
+
+.training-wrapper h1 {
+    font-size: 30px;
+}
+.training-wrapper h2 {
+    font-size: 21px;
+	padding: 0 20px;
+	margin-top: 16px;
+}
+.owl-prev img,
+.owl-next img {
+    max-width: 20px;
+}
+
+	.contactBlock {
+		width: 100%;
+	}
+	.contactBlock.contactInfo {
+		padding: 0;
+	}
+	.newsletterInfo h2 {
+		margin-bottom: 0px;
+	}
+	.newsletterInfo p {
+    margin-bottom: 5px;
+	}
+	.contactBlock ul li {
+    width: 50%;
+	}
+.Instructors {
+    padding-top: 10px;
+}
+.ourInstructors {
+    padding: 30px 0;
+}
+.innerPageView {
+    padding: 20px 0px 30px 0px;
+}
+.companyOverview .infoBlock h3 {
+    font-size: 28px;
+}
+.chooseBlock {
+    padding-top: 20px;
+}
+.companyOverview .infoBlock p {
+    font-size: 15px;
+}
+.chooseBlock .imgBlock img {
+    float: none;
+    width: auto;
+    display: table;
+    margin: 0 auto;
+}
+.block4 .InstructorsBlock {
+    max-width: 48%;
+}
+.values ul li {
+    width: 50%;
+}
+.values ul li:nth-child(2n+1) {
+    clear: both;
+}
+.sectionTitle h1 {
+    font-size: 36px;
+}
+	#projectTraining .owl-next,
+	#projectTraining .owl-prev {
+    display: none;
+	}
+	.projectTraining #projectTraining {
+    height: 400px;
+}	
+#purpose .owl-next,
+	#purpose .owl-prev {
+    display: none;
+	}
+	.projectTraining #purpose {
+    height: 400px;
+}
+.jumboText .enrolBtn {
+    display: inline-block;
+		float: none;
+}
+.jumboText .enrolBtn a {font-size: 14px;
+	line-height: 40px;
+
+	width: 149px;
+	margin-top: 20px;
+	height: 40px;
+}
+.about-pg .InstructorsBlock {
+  max-width: 48%;
+  width: 48%;
+}
+.map {
+  
+  min-height: 400px;
+}
+.application-table th {
+    font-size: 14px;
+}
+.rmm-opened .rmm-mobile {
+	display: block !important;
+}
+}
+ 
+
+@media only screen and (max-width:639px) { 
+	.offerBlock { width:100%;}
+	.featuresMain .featureBlock { min-height: inherit; text-align: center;width: 100%;}
+	span.line-break { display: inline-block;float: none;}
+	.newsletterInfo {max-width: 100%; width: 100%;}
+	.newsletterForm {
+    float: left;
+    width: 100%;
+    margin: 0;
+}
+	.small-w { width:100%;}
+	.medium-w { width:100%;}
+	.larg-w { width: 100%;}
+	.sectionTitle h1 { font-size: 30px;}
+	.sectionTitle h3 { font-size: 13px;}
+	.footerBlock + .footerBlock {border-top:1px solid rgba(0,0,0,0.5);}
+	.footerBlock {padding: 20px 0;}
+	section {overflow:hidden;}
+	.footerBlock {padding: 20px 0;}
+	.footerBlock {text-align: center;}
+	.footerBlock ul li a {width: 100%;}
+	.footerBlock h1:after { left: 40%;width: 20%;}
+	.footerBlock ul.socialConnect li a {width:35px;}
+	ul.contactInfo > li { float: none; max-width: 300px; display:inline-block;}
+	.footerBlock ul.socialConnect {text-align: center;}
+	.footerBlock ul.socialConnect li{float:none; display:inline-block;}
+	.jumboText h1 { font-size: 44px;}
+	.headerTop { text-align:center;}
+	.headerTop ul { display: inline-block; float: none; width: auto; }
+	.infoBlock { text-align: center;}
+	.footerBlock ul li p i { display: inline-block; left: auto; padding: 4px; position: relative; top: auto; vertical-align: middle;}
+	.courseDescription ul li:after {font-size: 16px;}
+	.payment-section .control-label {
+    display: block;
+	}
+	.form-width-50 {
+    width: 100%;
+	}
+	.margin-bottom-15 {
+		margin-bottom: 15px;
+	}
+	.Instructors {
+    padding-top: 10px;
+	}
+	.offerBlock {
+    padding: 25px 15px;
+	}
+	.ourInstructors .imgblock {
+		height: 110px;
+		width: 110px;
+	}
+	.siteFooter {
+		padding: 0px 0 0 0;
+	}
+	.educationalStages {
+    padding: 20px 0;
+	}
+    .coreValues {
+    padding: 20px 0;
+	}
+	.innerPageBg .jumboText h1 {
+    font-size: 36px;
+	}	
+	.newsletterInfo span {	
+    display: none;
+	}
+		.newsletterInfo {
+    padding-left: 0;
+	}
+	.newsletterInfo h2 {
+    margin-top: 0;
+	}
+	.contactBlock h1 {
+    font-size: 20px;
+	}
+	.innerPageView {
+    padding: 20px 0px 20px 0px;
+	}
+	.newsletterSection  {
+		padding: 25px 0 30px;
+	}
+	.pageContent .pageHeader .filterRight {
+    float: left;
+    width: 100%;
+	}
+	.filterRight .inputField {
+	margin: 5px 0;
+    margin-right: 20px;
+	}
+	.training-wrapper h2 {
+    font-size: 16px;
+	}
+
+} 
+
+@media only screen and (max-width:568px) { 
+.values ul li:nth-child(2n+1) {
+    clear: none;
+}
+.values ul li {
+    width: 100%;
+	margin: 5px 0;
+}
+.aboutPage .values p {
+    padding-left: 10px;
+}
+
+}
+
+@media only screen and (max-width:480px) {
+	.InstructorsBlock { margin: 14px 0; max-width: 100%;}
+	.courseIntro { padding: 10px;}
+	.courseIntro .introBlock {display: block;width: 100% !important;}
+	.courseIntro .introBlock h1 br{display:none;}
+	.courseIntro .introBlock h1 {padding:10px 0;}
+	.courseIntro .introBlock .enrolBtn { margin: 10px 0; width: 100%;}
+	.termDetails .termDetailsBlock { clear: none; float: left; height: 60px; margin: 10px 0; padding: 10px; width: 50%; min-width: 50%;}
+	.termDetails .termDetailsBlock + .termDetailsBlock { border-left:none; margin-left:0px; padding-left: 15px;}
+	ul.listingCOl2 li {width: 100%;}
+	.jumboText h1 {
+	  font-size: 24px;
+	  line-height: 36px;
+	}
+	.jumboText h1 br{
+	  display:none;
+	}
+	.bv-video-wrap {
+	  height: 330px !important;
+	}
+	.jumboText {
+	  margin-top: 49px;
+	}
+	.jumboText h1 span {
+	  display: inline;
+	}
+	.jumboText h3 {
+	  padding: 10px 0;
+	  font-size:16px;
+	}
+	.item-info .item-name {
+    font-size: 14px;
+	}
+	.order-header > div {
+    font-size: 14px;
+	}
+	.total-price-wrapper {
+    font-size: 18px;
+	}
+	.InstructorsBlock p {
+    height: auto;
+	}
+	.training-wrapper h1 {
+		font-size: 22px;
+	}
+	.training-wrapper h2 {
+		font-size: 16px;
+	}	
+	.About-purpose .training-wrapper h1 {
+		font-size: 22px;
+	}
+	.About-purpose .training-wrapper h2 {
+		font-size: 16px;
+	}
+	.enrollnow h1 {
+		font-size: 22px;
+	}
+	.cta {
+    padding: 0 32px;
+    font-size: 16px;
+    line-height: 53px;
+    height: 50px;
+	}
+	.training-wrapper {
+		margin: 100px auto;
+	}
+
+	.innerPageBg .jumboText h1 {
+		font-size: 30px;
+	}
+	.contactBlock ul li {
+		width: 100%;
+	}
+	.formBlock .inputField button {
+		width: 100%;
+	}
+	.block4 .InstructorsBlock {
+		max-width: 100%;
+	}
+	.companyOverview .infoBlock h3 {
+		font-size: 22px;
+	}
+	.aboutPage h3 {
+		font-size: 20px;
+	}
+	.filterRight .inputField {
+    margin: 5px 0;
+    margin-right: 0;
+    width: 100%;
+	}
+	.filterRight .inputField select {
+		width: 100%;
+	}
+	.filterRight .inputField input {
+    background: url(../images/search-icon.png) no-repeat 95% 8px;
+    width: 100%;
+	}
+	.articleInfo .icon {
+    position: static;
+	}
+	.articleInfo {
+    padding-left: 0;
+	}
+	.selectCourse .colRow .colblock h1 {
+    font-size: 18px;
+	}
+	.articleFooter a {
+    float: none;
+    display: inline-block;
+	}
+	.values p strong {
+    font-size: 16px;
+	}
+	.projectTraining #projectTraining {
+		height: 370px;
+	}	
+	.projectTraining #purpose {
+		height: 370px;
+	}
+	.jumboText { margin-top: 0;}
+	.about-pg .InstructorsBlock {
+	  max-width: 100%;
+	  width: 100%;
+	}
+.ourStory p {
+  font-size: 16px;
+  line-height: 30px;
+  padding:0;
+}
+.mission p {
+  font-size: 16px;
+  line-height: 30px;
+  padding:0;
+}	
+
+} 
+
+@media only screen and (max-width:380px) {
+	.headerTop ul li a {font-size: 13px;}
+
+	.parallax-window { min-height: 470px;}
+	.siteBrand { max-width: 240px;}
+	.headerTop ul li a {font-family: 'LatoWeb'; padding: 0 4px;}
+	.copyrights p { font-size: 12px;}
+	.gallerySlider .owl-buttons {margin-top: -14px;}
+	.courseDescription .artHead h1 {  font-size: 13px;} 
+	
+	}

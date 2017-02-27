@@ -1,0 +1,35 @@
+.product-image-photo {
+	width: 100% !important;
+	height: 192px !important;
+}
+.error{
+	color:red !important;
+}
+.col-center-ctm{
+	display: table;
+	margin: 0 auto;
+	float: none;
+}
+.success_message{
+	color:green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 991px) {
+#wrapper {
+	z-index: inherit !important;
+}
+}

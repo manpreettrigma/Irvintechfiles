@@ -1,0 +1,48 @@
+/* span.glyphicon {    			
+	opacity: 0;				
+}
+.active span.glyphicon {				
+	opacity: 1;				
+}*/
+.custom_square_radio{
+	border-radius:1px !important;
+	margin:4px !important;
+	float:left !important;
+    
+	}
+	.custom_square_radio2{
+	border-radius:1px !important;
+	margin:4px !important;
+	float:left !important;
+    
+	}
+.custom_radio_group1 .active,.custom_radio_group2 .active{
+	background:#078423;
+	border-radius:6px !important;
+}
+/* custom switch color 5-sep-2016 */
+#black_switch  { background:black !important;}
+#brown_switch  { background:#9f2626 !important;}
+#purple_switch { background:#7d007d !important;}
+#blue_switch  { background:#00aeff !important;}
+#khaki_switch { background:#bfb86c !important;}
+#red_switch  { background:#f80000 !important;}
+#pink_switch { background:#ffbfca !important;}
+#orange_switch  { background:#fba302 !important;}
+#gold_switch  { background:#fbd300 !important;}
+#yellow_switch  { background:#fcfc00 !important;}
+#grey_switch  { background:#9e9d9d !important;}
+#beige_switch  { background:#efefd4 !important;}
+#silver_switch  { background:#bfbdbd !important;}
+#white_switch  { background:white; color:grey; }
+#green_switch  { background:#007a00 !important;}
+#multi_switch  { background: #f93131; /* Old browsers */
+background: -moz-linear-gradient(top, #f93131 0%, #ddab2c 16%, #9ebc25 25%, #207cca 44%, #64dbd1 57%, #d131f9 71%, #1a7284 79%, #7db9e8 94%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f93131 0%,#ddab2c 16%,#9ebc25 25%,#207cca 44%,#64dbd1 57%,#d131f9 71%,#1a7284 79%,#7db9e8 94%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f93131 0%,#ddab2c 16%,#9ebc25 25%,#207cca 44%,#64dbd1 57%,#d131f9 71%,#1a7284 79%,#7db9e8 94%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f93131', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+}
+
+.custom_square_radio .active{
+	border-radius:5px !important;
+}

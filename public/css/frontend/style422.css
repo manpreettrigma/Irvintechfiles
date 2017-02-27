@@ -1,0 +1,258 @@
+/* ============================== 
+
+
+                      Stylesheet 422 ==================== */
+
+ #aboutValet {margin: 58px 0 100px;}		
+ .input-wrap {position:relative; display:inline-block; max-width:570px; width:100%; }
+ .pageSearch input[type="text"] { width:100%; height:48px; border:1px solid #cecece; border-radius:1px; font-size:18px; padding:0px 15px 0px 20px; color:#6c6c6c; font-style:italic; background:#fff; font-weight:300; position:relative;font-family:'open sans';}
+ .pageSearch button{position:absolute; right:1px; height:46px; line-height:46px; width:50px; display:inline-block; text-align:center; top:1px; border:0; background:#fff; color:#d4d4d4; font-size:20px; font-family:'FontAwesome'; }
+ .pageSearch button i {font-style:normal;}
+ .sellingSteps h2{font-size:25px; color:#000000; font-weight:600; margin:45px 0; text-align:center; max-width:740px; line-height:40px; display:inline-block;}
+ .serviceBlock {padding:30px 0 15px; text-align:center;}
+ .serviceBlock .stepCount span{width: 46px;
+height: 46px;
+margin: 30px 0;
+display: inline-block;
+border: 2px solid #dc2458;
+border-radius: 50px;
+line-height: 43px;
+clear: both;
+font-weight: 700;
+font-size: 18px;
+text-align: center;
+font-family: 'open sans';
+color: #353333;}
+  .serviceBlock h2 {font-size:19px; color:#000; margin:0px; text-transform:uppercase;}
+  .serviceBlock p {font-size:14px; color:#353333; margin:15px 0px; line-height:26px; font-family:'open sans'; max-width:200px; display:inline-block;}
+   .moreBtn {clear: both;}
+  .moreBtn a{font-size:15px; color:#dc2458; text-decoration:underline; display:inline-block; margin:0; color:#dc2458; line-height:24px; font-family:'open sans';}
+  .howValetWork {margin:40px 0;}
+  .howValetWork h1{font-weight:300; font-size:26px; text-align:left; margin:10px 0; color:#353333;}
+  .imp {margin:10px 0; float:left; width:100%; text-align:left; padding:25px 30px; position:relative; }
+  .imp:before {height:100%; top:0; left:0; width:4px; position:absolute;  content:'';}
+  .imp p { font-family:'open sans'; font-size:14px; color:#353333; margin:0 !important;}
+  .imp.yellowBg {background:#fffcd5;}
+  .imp.yellowBg:before {background:#e7dca4;}
+  .imp.pinkBg {background:#fcebf0;}
+  .imp.pinkBg:before {background:#de3e68;}
+  .aboutValet p { font-family:'open sans'; font-size:14px; color:#6c6c6c; line-height:26px; margin:20px 0;}
+  .aboutValet h1{ font-size:22px; color:#353333; line-height:26px; margin:10px 0; font-weight:700;}
+  .aboutValet ul {list-style-type: none; margin-left:10px;  padding-left: 20px;  z-index:99; position:relative; counter-reset: my-badass-counter;} 
+  .aboutValet ul li {margin:15px 0;  padding-left:20px; position:relative; font-size:14px; color:#353333; margin:20px 0;}
+  .aboutValet ul li:before {position:absolute; left:-20px; top:0; height:35px; width:35px; background:#e7e7e7; content:''; border-radius:50%; content: counter(my-badass-counter); counter-increment: my-badass-counter; text-align:center; line-height:35px; font-weight:600;}
+  .aboutValet ul li a {line-height:26px; font-size:14px; color:#6c6c6c; font-family:'open sans'; margin-top:5px; padding-left:10px;display:inline-block;}
+  .aboutValet ul li a:hover {line-height:26px; font-size:14px; color:#dc2458;}
+  .faqRow {margin-top:20px;}
+  .faqRow h3{font-size:18px; color:#353333; margin-top:30px;}
+  .faqRow p{font-size:14px; color:#6c6c6c; margin:5px 0; line-height:26px; font-family:'open sans';}
+  .faqRow p a {color:#dc2458;}
+  
+  
+  
+  /* ==============================================  
+  
+                                                Valet detail page  */
+												
+/* ==============================================	*/
+						
+												
+.valetTabs { display: inline-block; max-width: 1030px; padding: 20px 0; text-align: center; width: 100%; margin-top:20px;}
+.valetTabs .nav {display:inline-block; text-align:center; width:100%; margin-bottom:20px; border-bottom:1px solid #dcdcdc;}
+.valetTabs .nav li{display:inline-block; text-align:center; width:auto; padding:0; margin:0;}
+.valetTabs .nav li a{display:inline-block; text-align:center; width:auto; padding:20px 25px; margin:0; font-size:14px; color:#6c6c6c; font-family:'open sans'; background:none; position:relative;}
+.valetTabs .nav li.active a{ color:#dc2458; background:none;} 
+.valetTabs .nav li.active a:after {border-bottom:2px solid #dc2458; content:''; bottom:-1px; left:0; position:absolute; width:100%;} 
+.valetTabs .tab-content{ width:100%; display:block;}
+
+.valetTabs .tab-content h3{font-size:26px; margin:44px 0 10px; color:#474747; font-family:'open sans'; }
+.valetTabs .tab-content p{font-size:14px; margin:15px 0; color:#333333; font-family:'open sans'; }
+.valetTabs .tab-content h4{font-size:18px; margin:15px 0; padding:20px 0; color:#333333; font-family:'open sans'; }
+.detailForm {float:left; width:100%; margin:10px 0;}
+.valetTabs .tabBlock { float: left; padding: 15px; text-align: left; width: 50%;}
+.tabBlock > label { color: #333333; font-family: open sans; font-weight:600; font-size: 14px; padding: 15px 0;}
+.tabBlock > label span{ color: #dc2458; font-size: 12px; font-weight:400;}
+.tabBlock textarea { border: 1px solid #c7c7c7; float: left; height: 115px; padding: 15px;resize: none;width: 100%; font-size:13px; color:#858585; font-family:'open sans'; text-align:left;}
+.valetEdit {padding:20px 0; vertical-align:middle;float: left;width: 100%;}
+.valetTabs .valetEdit h3 {display:inline-block; color:#333333; font-size:18px;margin-top: 10px; text-transform:uppercase; font-family: 'Open Sans', sans-serif; vertical-align:middle;}
+.valetEdit button {display:inline-block; color:#dc2458; font-size:14px; text-transform:uppercase; font-family: 'Open Sans', sans-serif; border:0; background:none; vertical-align:middle; padding:10px; }
+.valetEdit button i {padding-right:10px; font-size:14px;}
+.valetTabs .tab-content .valetEdit p{color:#dc2458; font-size:16px; font-family:'open sans'; margin:17px 0 0 0;text-transform: uppercase;}
+.valetEdit ul {list-style:none;margin:11px 0 0 0; padding:0;}
+.valetEdit ul li{font-size:14px; font-family:'open sans'; color:#858585; padding-bottom:10px;text-transform: uppercase; }
+.valetInfo {float:left; width:100%; border-bottom:1px solid #c7c7c7; padding-bottom:30px; }
+.valetInfo h2 {color:#333333; font-size:18px; font-family:'open sans';  font-weight:600; padding:0px  0px 20px 0; margin:0; margin-bottom:20px; border-bottom:1px solid #c7c7c7; text-align:center;}
+.valetTabs .tab-content.valetInfo p{font-size:13px; color:#858585; font-family:'open sans'; line-height:26px;text-align:left; margin:15px 0;}
+.valetTabs .tab-content.valetInfo p strong {color:#333;}
+.checkValetinfo {float: left;
+    margin: 0 20px;
+    padding: 20px 0;
+    text-align: left;}
+.checkValetinfo label{padding:5px 0; text-align:left; font-size:13px; font-weight:400; color:#424242; font-family:'open sans'; cursor:pointer;}
+.valetTabs .checkValetinfo input[type="checkbox"] { margin-right:15px; }
+.valetTabs .checkValetinfo.text-center {text-align:center; width: 100%;}
+.valetTabs .checkValetinfo input[type="submit"] { display:inline-block; padding:10px 30px; border:0; min-width:100px; font-family:'open sans';}
+.itemInquiry {float:left; width:100%; margin:20px 0; text-align:left;}
+.itemInquiry .itemRow {float:left; width:100%; padding:10px 0 30px 95px; position:relative;}
+.itemInquiry .itemRow h2{float:left; width:100%; font-size:16px; font-weight:600; margin:3px 0; font-family:'open sans'; }
+.itemInquiry .itemRow p{float:left; width:100%; padding:5px 0 0 0px; color:#595959; font-size:14px; margin:2px 0; font-family:'open sans'; }
+.itemInquiry .itemRow span{position:absolute; left:0; top:0; height:100%; width:80px; text-align:center; line-height:75px;}
+.valetTabs .tab-content a { color: #dc2458; font-family: open sans;}
+.valetTabs .tab-content .list-itmes h4 { margin-top:0;}
+.valetTabs .tab-content.list-your-items #items{
+    max-width: 873px;
+	margin: 0 auto;
+}
+.valetTabs .tab-content.list-your-items #shipping{
+    max-width: 640px;
+	margin: 0 auto;
+}
+.payment-price-items {
+	padding: 9px 0 0px; 
+}
+.valetTabs .tab-content .payment-price-items p {
+    font-size: 13px;
+    margin: 0 0 20px 0;
+    color: #858585;
+    font-family: 'open sans';
+    line-height: 1.6;
+}
+.valetTabs .tab-content .payment-price-items p:last-child {
+    margin: 0 0;
+}
+.valetTabs .tab-content .payment-price-items  span {
+	text-transform: uppercase;
+	color: #333;
+	font-weight: 700;
+}
+/* ==============================================
+												Login Model */
+/* ============================================ */
+
+#loginModal .modal-dialog{width:100%; max-width:740px; text-align:center; margin:auto; padding:10px;}
+#loginModal .modal-dialog .modal-content {background:#fff;  padding:40px; border-radius:0; }
+.loginFormModel {max-width:485px; display:inline-block; width:100%;}
+#loginModal .modal-header {border:0; padding-bottom:30px;}
+.loginFormModel input[type="text"] {float:left; width:100%; border:1px solid #dfdfdf; padding:0px 20px; line-height:54px; height:54px; background:#fff; font-size:14px; color:#000000; font-family:'open sans'; margin:7px 0;}
+.loginFormModel label, .loginFormModel a{font-size:15px; color:#666666; width:auto; font-family:'open sans'; margin:0; font-weight:400;}
+.loginFormModel label input[type="checkbox"]{float:left; margin-right:15px;}
+.modelRow { float: left; padding: 10px 0;  width: 100%;}
+.loginFormModel a { text-decoration:underline; line-height:20px;}
+.loginFormModel a:hover{ color:#dc2458;}
+.loginFormModel input[type="submit"], .loginFormModel .btn-fb {float:left; width:100%; height:52px; line-height:52px; color:#fff; border-radius:0; border:0;margin:5px 0; font-family:'open sans'; font-size:16px;}
+.loginFormModel .btn-fb {background:#3b5999; position:relative;}
+.loginFormModel .btn-fb:before {position:absolute; left:20px; content:'\f09a'; color:#fff; height:100%; line-height:55px; height:100%; font-family:'FontAwesome';}
+.loginFormModel .btn-fb:after {position:absolute; left:48px; content:''; width:1px; background:#5f80c6; top:7px; height:38px; border-left:1px solid #1e3566;}
+.btn-break {float:left; width:100%; padding:10px 0; position:relative; text-align:center; font-size:16px; color:#aeadad; font-family:'open sans'; }
+.btn-break i {font-size:16px; color:#aeadad; font-family:'open sans'; padding:5px; background:#fff; }
+.btn-break:after {height:3px; left:0; top:50%; width:100%; margin-top:-1.5px; background:url('../images/or-break.png') no-repeat center center; content:''; position:absolute;}
+#loginModal .modal-footer {border:0;text-align:center;}
+#loginModal .modal-footer p, .loginFormModel .modal-footer p a { font-size:14px; color:#7b7b7b; font-family:'open sans';}
+#loginModal .modal-footer p a{  color:#dc2458;}
+.listItemsEdit {float:left; width:100%; text-align:left;}
+.listItemsEdit .form-group {display:inline-block; padding-right:20px; position:relative; width:100%;margin-bottom: 10px;}
+.listItemsEdit select, .listItemsEdit input[type="text"] {float:left; width:100%; border-radius:1px; border: 1px solid #dfdfdf; height:44px; padding:5px 10px; font-size:14px; font-family:'open sans'; }
+.listItemsEdit label {padding-bottom:10px; font-size:14px; font-family:'open sans'; font-weight:400; color:#333333;margin-bottom:0;}
+.listItemsEdit label a{ color:#dc2458; font-size:12px;}
+
+.listItemsEdit button {position:absolute; height:25px; width:25px; bottom:10px; right:0;  font-family:'open sans';  color:#dc2458; background:none; border:0; font-weight:700;}
+.listItemsEdit .selectboxit-container .selectboxit { line-height:44px; height:44px;}
+.listItemsEdit .selectboxit-container span {height:44px; line-height:44px;}
+.padding41 {padding-top:41px;}
+.quantity-wanted {
+padding-top: 31px;
+}
+.listItemsEdit .selectboxit-container .selectboxit-text {
+    font-size: 14px !important;
+}
+.listItemsEdit .selectboxit.form-control {
+    border-radius: 1px;
+}
+.listItemsEdit .form-group.add-item-next {
+    margin: 22px 0 80px;
+    text-align: right;
+}
+.add-item-next .btn-pink{
+padding: 10px 63px;
+color: #fff !important;
+font-size: 14px;
+margin-left: 25px;
+}
+.btn-border-grey {
+border: 2px solid #333333;
+color: #333 !important;
+padding: 8px 33px;
+}
+.btn-border-grey i{
+margin-left: 10px;
+}
+
+
+/* =====================================================
+												Media Styles */
+/* ======================================================   */												
+												
+
+@media only screen and (max-width:767px){
+.listItemsEdit label {
+    padding: 10px 0 5px;
+}
+.listItemsEdit .form-group {
+    background: #f1f1f1;
+	 padding-bottom: 50px;
+}
+.listItemsEdit button {
+    background: #fff;
+    bottom: 13px;
+    left: 0;
+    margin: 0 auto;
+    right: 0;
+}
+.listItemsEdit .form-group.add-item-next {
+    margin: 22px 0 30px;
+    padding: 30px 15px;
+    text-align: center;
+}
+.listItemsEdit .form-group {
+    padding-right: 0;
+}
+.valetTabs .nav {
+    border-bottom: 0;
+}
+}
+
+@media only screen and (max-width:640px){
+	.valetTabs .nav li a { padding: 20px;}
+.itemInquiry .itemRow p {
+    font-size: 13px;
+}
+.itemInquiry .itemRow h2 {
+    font-size: 15px;
+}
+.valetTabs .tab-content h3 {
+    margin: 10px 0 10px;
+}
+}
+
+@media only screen and (max-width:599px){
+	.valetTabs .nav li, .valetTabs .nav li a {width:100%;}
+	.valetTabs .tabBlock {width: 100%;}
+	.itemInquiry .itemRow span {width: 35px;}
+	.itemInquiry .itemRow img{max-height:50px;}
+	.itemInquiry .itemRow {padding: 10px 0 10px 50px;}
+	.valetTabs .tab-content h4 {margin: 10px 0;padding: 10px 0;}
+	.valetTabs .tab-content h3 {font-size: 20px;}
+	.valetTabs .tab-content .tab-pane { margin-top: 10px;}
+	#loginModal .modal-dialog .modal-content { padding:20px 10px;}
+	.loginFormModel label, .loginFormModel a {font-size:13px;}
+	.sellingSteps h2 { font-size: 16px; line-height: 30px;}
+	
+
+}
+
+@media only screen and (max-width:480px){
+	.valetTabs .tab-content .add-item-next a {
+    display: inline-block;
+    margin: 5px 0;
+    width: 100%;
+}
